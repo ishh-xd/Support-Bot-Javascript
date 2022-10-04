@@ -25,7 +25,7 @@ supportChannelId:"", // Support channel id
 ghostPing: true, // Enabled true or false?
 }
 ```
-[Run on Repl.it](https://replit.com/github/AdityaOP2008/Support-Bot-Javascript)
+[ [🌀 | Replit ](https://replit.com/github/AdityaOP2008/Support-Bot-Javascript) ] • [![Remix](https://cdn.glitch.com/2703baf2-b643-4da7-ab91-7ee2a2d00b5b%2Fremix-button.svg)](https://glitch.com/edit/#!/import/github/AdityaOP2008/Support-Bot-Javascript)
 
 
 <h2>ScreenShots</h2>
