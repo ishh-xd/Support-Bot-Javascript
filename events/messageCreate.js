@@ -18,8 +18,9 @@ const args = message.content.trim().split(/ +/g);
             message.channel.send("Yeah? You need any help? ")
         }; 
 
-    
- 
+    // Ishh On Top
+ // Coded by Ishh
+// https://github.com/AdityaOP2008/Support-Bot-Javascript
     
     
 if(message.mentions.users.has(message.guild.ownerId))  {
