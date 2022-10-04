@@ -31,6 +31,8 @@ ghostPing: true, // Enabled true or false?
 
 <img src="https://cdn.discordapp.com/attachments/1017606741908795476/1026865554277023754/Screenshot_2022-10-04-20-06-35-633_com.discord.png">
 
+<img src="https://cdn.discordapp.com/attachments/1017606741908795476/1026867970573615134/Screenshot_2022-10-04-20-16-33-323_com.discord.png">
+
 
 ## Default Responders
 - help
