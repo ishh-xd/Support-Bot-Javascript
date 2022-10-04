@@ -1,3 +1,5 @@
+<center><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Support%20Bot&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=gradient" /></center>
+
 # Support Server Bot
 __Server manager bot.__
 
@@ -23,6 +25,8 @@ supportChannelId:"", // Support channel id
 ghostPing: true, // Enabled true or false?
 }
 ```
+[Run on Repl.it](https://replit.com/github/AdityaOP2008/Support-Bot-Javascript)
+
 
 <h2>ScreenShots</h2>
 <img src="https://cdn.discordapp.com/attachments/1017606741908795476/1026865540595191859/Screenshot_2022-10-04-20-06-51-187_com.discord.png">
