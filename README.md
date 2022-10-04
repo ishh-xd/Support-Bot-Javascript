@@ -31,5 +31,13 @@ ghostPing: true, // Enabled true or false?
 
 <img src="https://cdn.discordapp.com/attachments/1017606741908795476/1026865554277023754/Screenshot_2022-10-04-20-06-35-633_com.discord.png">
 
+
+## Default Responders
+- help
+- invite
+- help-desk
+- Server Owner Mentions
+- Ghost Pings
+
 <h3>Copyright</h3>
 © Ishh 2020-2025
