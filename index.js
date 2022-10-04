@@ -33,7 +33,10 @@ client.login(client.config.token)
 
 
 
-
+    // Ishh On Top
+ // Coded by Ishh
+// https://github.com/AdityaOP2008/Support-Bot-Javascript
+    
 
 module.exports ={
     client
