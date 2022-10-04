@@ -4,6 +4,9 @@ module.exports ={
 name:"interactionCreate",
 run: async(client, interaction)=>{
     
+        // Ishh On Top
+ // Coded by Ishh
+// https://github.com/AdityaOP2008/Support-Bot-Javascript
     
     
 if (!interaction.isButton()) return;
@@ -19,7 +22,10 @@ let IshhOP = new EmbedBuilder()
 interaction.reply({embeds:[IshhOP], ephemeral: true})
 	
 }
-        
+      // Ishh On Top
+ // Coded by Ishh
+// https://github.com/AdityaOP2008/Support-Bot-Javascript
+          
         
     if (interaction.customId === 'help_but_2') {
        
@@ -38,3 +44,7 @@ interaction.reply({embeds:[IshhOP], ephemeral: true})
     
 }
 }
+    // Ishh On Top
+ // Coded by Ishh
+// https://github.com/AdityaOP2008/Support-Bot-Javascript
+    
