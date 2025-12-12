@@ -25,17 +25,8 @@ supportChannelId:"", // Support channel id
 ghostPing: true, // Enabled true or false?
 }
 ```
-[ [🌀 | Replit ](https://replit.com/github/AdityaOP2008/Support-Bot-Javascript) ] • [![Remix](https://cdn.glitch.com/2703baf2-b643-4da7-ab91-7ee2a2d00b5b%2Fremix-button.svg)](https://glitch.com/edit/#!/import/github/AdityaOP2008/Support-Bot-Javascript)
+[ [🌀 | Replit ](https://replit.com/github/ishh-xd/Support-Bot-Javascript) ] • [![Remix](https://cdn.glitch.com/2703baf2-b643-4da7-ab91-7ee2a2d00b5b%2Fremix-button.svg)](https://glitch.com/edit/#!/import/github/ishh-xd/Support-Bot-Javascript)
 
-
-<h2>ScreenShots</h2>
-<img src="https://cdn.discordapp.com/attachments/1017606741908795476/1026865540595191859/Screenshot_2022-10-04-20-06-51-187_com.discord.png">
-
-<img src="https://cdn.discordapp.com/attachments/1017606741908795476/1026865554667081788/Screenshot_2022-10-04-20-06-24-494_com.discord.png">
-
-<img src="https://cdn.discordapp.com/attachments/1017606741908795476/1026865554277023754/Screenshot_2022-10-04-20-06-35-633_com.discord.png">
-
-<img src="https://cdn.discordapp.com/attachments/1017606741908795476/1026867970573615134/Screenshot_2022-10-04-20-16-33-323_com.discord.png">
 
 
 ## Default Responders
